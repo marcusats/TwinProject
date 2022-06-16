@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  reactapp:
+    build: ./summer2022-react
+    container_name: reactapp_c
+    ports:
+      - '3000:3000'
+    volumes:
+      - ./summer2022-react:/app
+      - ./app/node_module
+    stdin_open: true
+    tty: true

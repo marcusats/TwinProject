@@ -1,0 +1,302 @@
+[
+ {
+   "CELSIUS": 36.6,
+   "PULSE": 172,
+   "LEUKOCYTES": 0,
+   "GLUCOSE": 0,
+   "HEMOGLOBIN": 0,
+   "CHEERFULNESS": "75%",
+   "STRESS": "9%",
+   "REACTION": "82%"
+ },
+ {
+   "CELSIUS": 36.6,
+   "PULSE": 179,
+   "LEUKOCYTES": 0,
+   "GLUCOSE": 0,
+   "HEMOGLOBIN": 0,
+   "CHEERFULNESS": "78%",
+   "STRESS": "5%",
+   "REACTION": "70%"
+ },
+ {
+   "CELSIUS": 36.6,
+   "PULSE": 84,
+   "LEUKOCYTES": 0,
+   "GLUCOSE": 0,
+   "HEMOGLOBIN": 0,
+   "CHEERFULNESS": "87%",
+   "STRESS": "31%",
+   "REACTION": "77%"
+ },
+ {
+   "CELSIUS": 36.6,
+   "PULSE": 162,
+   "LEUKOCYTES": 0,
+   "GLUCOSE": 0,
+   "HEMOGLOBIN": 0,
+   "CHEERFULNESS": "80%",
+   "STRESS": "30%",
+   "REACTION": "50%"
+ },
+ {
+   "CELSIUS": 36.6,
+   "PULSE": 52,
+   "LEUKOCYTES": 0,
+   "GLUCOSE": 0,
+   "HEMOGLOBIN": 0,
+   "CHEERFULNESS": "90%",
+   "STRESS": "37%",
+   "REACTION": "75%"
+ },
+ {
+   "CELSIUS": 36.6,
+   "PULSE": 80,
+   "LEUKOCYTES": 0,
+   "GLUCOSE": 0,
+   "HEMOGLOBIN": 0,
+   "CHEERFULNESS": "89%",
+   "STRESS": "24%",
+   "REACTION": "75%"
+ },
+ {
+   "CELSIUS": 37.2,
+   "PULSE": 95,
+   "LEUKOCYTES": 3,
+   "GLUCOSE": -2,
+   "HEMOGLOBIN": -3,
+   "CHEERFULNESS": "70%",
+   "STRESS": "54%",
+   "REACTION": "92%"
+ },
+ {
+   "CELSIUS": 37.4,
+   "PULSE": 171,
+   "LEUKOCYTES": -2,
+   "GLUCOSE": 0,
+   "HEMOGLOBIN": -1,
+   "CHEERFULNESS": "96%",
+   "STRESS": "65%",
+   "REACTION": "57%"
+ },
+ {
+   "CELSIUS": 37.6,
+   "PULSE": 76,
+   "LEUKOCYTES": 2,
+   "GLUCOSE": -1,
+   "HEMOGLOBIN": 2,
+   "CHEERFULNESS": "33%",
+   "STRESS": "18%",
+   "REACTION": "47%"
+ },
+ {
+   "CELSIUS": 37.7,
+   "PULSE": 151,
+   "LEUKOCYTES": 0,
+   "GLUCOSE": 0,
+   "HEMOGLOBIN": 2,
+   "CHEERFULNESS": "17%",
+   "STRESS": "18%",
+   "REACTION": "31%"
+ },
+ {
+   "CELSIUS": 37.8,
+   "PULSE": 154,
+   "LEUKOCYTES": 2,
+   "GLUCOSE": 1,
+   "HEMOGLOBIN": 3,
+   "CHEERFULNESS": "22%",
+   "STRESS": "89%",
+   "REACTION": "44%"
+ },
+ {
+   "CELSIUS": 38.3,
+   "PULSE": 140,
+   "LEUKOCYTES": 1,
+   "GLUCOSE": 3,
+   "HEMOGLOBIN": 3,
+   "CHEERFULNESS": "14%",
+   "STRESS": "19%",
+   "REACTION": "74%"
+ },
+ {
+   "CELSIUS": 38.4,
+   "PULSE": 134,
+   "LEUKOCYTES": 3,
+   "GLUCOSE": 0,
+   "HEMOGLOBIN": 3,
+   "CHEERFULNESS": "10%",
+   "STRESS": "17%",
+   "REACTION": "39%"
+ },
+ {
+   "CELSIUS": 38.5,
+   "PULSE": 102,
+   "LEUKOCYTES": 0,
+   "GLUCOSE": -1,
+   "HEMOGLOBIN": 3,
+   "CHEERFULNESS": "27%",
+   "STRESS": "39%",
+   "REACTION": "36%"
+ },
+ {
+   "CELSIUS": 38.8,
+   "PULSE": 155,
+   "LEUKOCYTES": 1,
+   "GLUCOSE": 2,
+   "HEMOGLOBIN": 3,
+   "CHEERFULNESS": "44%",
+   "STRESS": "62%",
+   "REACTION": "72%"
+ },
+ {
+   "CELSIUS": 38.8,
+   "PULSE": 169,
+   "LEUKOCYTES": -1,
+   "GLUCOSE": 2,
+   "HEMOGLOBIN": 0,
+   "CHEERFULNESS": "12%",
+   "STRESS": "21%",
+   "REACTION": "39%"
+ },
+ {
+   "CELSIUS": 38.9,
+   "PULSE": 154,
+   "LEUKOCYTES": 3,
+   "GLUCOSE": -1,
+   "HEMOGLOBIN": -2,
+   "CHEERFULNESS": "24%",
+   "STRESS": "17%",
+   "REACTION": "43%"
+ },
+ {
+   "CELSIUS": 39.1,
+   "PULSE": 154,
+   "LEUKOCYTES": 1,
+   "GLUCOSE": 3,
+   "HEMOGLOBIN": -2,
+   "CHEERFULNESS": "79%",
+   "STRESS": "67%",
+   "REACTION": "60%"
+ },
+ {
+   "CELSIUS": 39.6,
+   "PULSE": 116,
+   "LEUKOCYTES": 0,
+   "GLUCOSE": 1,
+   "HEMOGLOBIN": -3,
+   "CHEERFULNESS": "37%",
+   "STRESS": "28%",
+   "REACTION": "71%"
+ },
+ {
+   "CELSIUS": 39.8,
+   "PULSE": 70,
+   "LEUKOCYTES": -2,
+   "GLUCOSE": -2,
+   "HEMOGLOBIN": 1,
+   "CHEERFULNESS": "39%",
+   "STRESS": "81%",
+   "REACTION": "64%"
+ },
+ {
+   "CELSIUS": 39.6,
+   "PULSE": 127,
+   "LEUKOCYTES": 3,
+   "GLUCOSE": 0,
+   "HEMOGLOBIN": -2,
+   "CHEERFULNESS": "50%",
+   "STRESS": "75%",
+   "REACTION": "65%"
+ },
+ {
+   "CELSIUS": 38.9,
+   "PULSE": 92,
+   "LEUKOCYTES": 0,
+   "GLUCOSE": 3,
+   "HEMOGLOBIN": 2,
+   "CHEERFULNESS": "70%",
+   "STRESS": "40%",
+   "REACTION": "43%"
+ },
+ {
+   "CELSIUS": 38.8,
+   "PULSE": 62,
+   "LEUKOCYTES": -2,
+   "GLUCOSE": 3,
+   "HEMOGLOBIN": -3,
+   "CHEERFULNESS": "43%",
+   "STRESS": "60%",
+   "REACTION": "53%"
+ },
+ {
+   "CELSIUS": 38.4,
+   "PULSE": 149,
+   "LEUKOCYTES": 0,
+   "GLUCOSE": 2,
+   "HEMOGLOBIN": 0,
+   "CHEERFULNESS": "58%",
+   "STRESS": "5%",
+   "REACTION": "69%"
+ },
+ {
+   "CELSIUS": 36.6,
+   "PULSE": 172,
+   "LEUKOCYTES": 0,
+   "GLUCOSE": 0,
+   "HEMOGLOBIN": 0,
+   "CHEERFULNESS": "75%",
+   "STRESS": "9%",
+   "REACTION": "82%"
+ },
+ {
+   "CELSIUS": 36.6,
+   "PULSE": 179,
+   "LEUKOCYTES": 0,
+   "GLUCOSE": 0,
+   "HEMOGLOBIN": 0,
+   "CHEERFULNESS": "78%",
+   "STRESS": "5%",
+   "REACTION": "70%"
+ },
+ {
+   "CELSIUS": 36.6,
+   "PULSE": 84,
+   "LEUKOCYTES": 0,
+   "GLUCOSE": 0,
+   "HEMOGLOBIN": 0,
+   "CHEERFULNESS": "87%",
+   "STRESS": "31%",
+   "REACTION": "77%"
+ },
+ {
+   "CELSIUS": 36.6,
+   "PULSE": 162,
+   "LEUKOCYTES": 0,
+   "GLUCOSE": 0,
+   "HEMOGLOBIN": 0,
+   "CHEERFULNESS": "80%",
+   "STRESS": "30%",
+   "REACTION": "50%"
+ },
+ {
+   "CELSIUS": 36.6,
+   "PULSE": 52,
+   "LEUKOCYTES": 0,
+   "GLUCOSE": 0,
+   "HEMOGLOBIN": 0,
+   "CHEERFULNESS": "90%",
+   "STRESS": "37%",
+   "REACTION": "75%"
+ },
+ {
+   "CELSIUS": 36.6,
+   "PULSE": 80,
+   "LEUKOCYTES": 0,
+   "GLUCOSE": 0,
+   "HEMOGLOBIN": 0,
+   "CHEERFULNESS": "89%",
+   "STRESS": "24%",
+   "REACTION": "75%"
+ }
+]
