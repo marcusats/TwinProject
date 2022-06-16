@@ -1,3 +1,6 @@
 [submodule "notifications"]
 	path = notifications
 	url = git@github.com:marcusats/notifications.git
+[submodule "summer2022-react"]
+	path = summer2022-react
+	url = git@github.com:marcusats/summer2022-react.git
