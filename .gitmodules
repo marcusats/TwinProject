@@ -1,0 +1,3 @@
+[submodule "notifications"]
+	path = notifications
+	url = git@github.com:marcusats/notifications.git
