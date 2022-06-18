@@ -7,6 +7,12 @@ services:
       - '3000:3000'
     volumes:
       - ./summer2022-react:/app
-      - ./app/node_module
     stdin_open: true
     tty: true
+
+  api1:
+    build: ./go-restAPI
+    container_name: go-rest3
+    ports:
+      - '8000:8000'
+    
