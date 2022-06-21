@@ -2,17 +2,17 @@ version: "3.8"
 services:
   reactapp:
     build: ./summer2022-react
-    container_name: reactapp_c
+    container_name: reactApp_c
     ports:
       - '3000:3000'
     volumes:
       - ./summer2022-react:/app
     stdin_open: true
     tty: true
-
+  ###
   api1:
     build: ./go-restAPI
-    container_name: go-rest3
+    container_name: go-Rest
     ports:
       - '8000:8000'
     

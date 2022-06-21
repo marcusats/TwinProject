@@ -26,6 +26,12 @@ var twins = []twin{
 		CIDH:   "QmVUkHEBtfkVA1S2q9XejWjmG1ztN5SLG6hUkue3hcZUNQ",
 		PID:    "ExponentPushToken[hYboGjMd_zeSNnRdMJMjtE]",
 		Wallet: " "},
+
+	{ID: "1234",
+		CIDN:   "QmQkSRjw9XWrjLqjL2nZEX2W3Nc1cQketizuo1cXFuYDLX",
+		CIDH:   "QmVUkHEBtfkVA1S2q9XejWjmG1ztN5SLG6hUkue3hcZUNQ",
+		PID:    "ExponentPushToken[A7xxquHJO4RDO5zNMwQtGV]",
+		Wallet: " "},
 }
 var p []byte
 var messageType int
@@ -77,10 +83,10 @@ func sendNotification(c *gin.Context) {
 	response, err := client.Publish(
 		&expo.PushMessage{
 			To:       []expo.ExponentPushToken{pushToken},
-			Body:     "This is a test notification",
+			Body:     "Hey! It is really nice having you back. Could we access your information?",
 			Data:     map[string]string{"UserID": twin.ID},
 			Sound:    "default",
-			Title:    "Notification Title",
+			Title:    "Information Request",
 			Priority: expo.DefaultPriority,
 		},
 	)
