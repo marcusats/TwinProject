@@ -10,9 +10,9 @@ services:
     stdin_open: true
     tty: true
   ###
-  api1:
+  api2:
     build: ./go-restAPI
-    container_name: go-Rest
+    container_name: go-Rest1
     ports:
       - '8000:8000'
     

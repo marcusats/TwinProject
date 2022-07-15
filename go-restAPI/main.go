@@ -22,13 +22,13 @@ type twin struct {
 
 var twins = []twin{
 	{ID: "123",
-		CIDN:   "QmQkSRjw9XWrjLqjL2nZEX2W3Nc1cQketizuo1cXFuYDLX",
+		CIDN:   "QmTLw4o9tFrgrHnAjdmJHVTAMAhQTLBxareCVu2HwGaber",
 		CIDH:   "QmVUkHEBtfkVA1S2q9XejWjmG1ztN5SLG6hUkue3hcZUNQ",
 		PID:    "ExponentPushToken[hYboGjMd_zeSNnRdMJMjtE]",
 		Wallet: " "},
 
 	{ID: "1234",
-		CIDN:   "QmQkSRjw9XWrjLqjL2nZEX2W3Nc1cQketizuo1cXFuYDLX",
+		CIDN:   "QmTLw4o9tFrgrHnAjdmJHVTAMAhQTLBxareCVu2HwGaber",
 		CIDH:   "QmVUkHEBtfkVA1S2q9XejWjmG1ztN5SLG6hUkue3hcZUNQ",
 		PID:    "ExponentPushToken[A7xxquHJO4RDO5zNMwQtGV]",
 		Wallet: " "},
